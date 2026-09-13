@@ -1,0 +1,8 @@
+# Project-specific overrides
+# Generated on 2026-11-15
+themes/**/*.css linguist-detectable
+
+*.min.css linguist-generated
+* text=auto
+*.css linguist-detectable
+docs/** linguist-vendored
